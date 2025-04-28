@@ -47,7 +47,7 @@ I enjoy working with new technologies and constantly improving my skills.
 ## 📬 Contact
 
 - **Email:** gafforovumidjon849@gmail.com
-- **LinkedIn:** [umidjon]([https://www.linkedin.com/in/umidjon-gafforov-8b151b325/])
+- **LinkedIn:** [https://www.linkedin.com/in/umidjon-gafforov-8b151b325/]([https://www.linkedin.com/in/umidjon-gafforov-8b151b325/])
 - **Portfolio Website:** [umidjon.site](https://umidjon.site)
 
 ---
