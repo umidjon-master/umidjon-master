@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nestjs,netlify,nodejs,notion,npm,nuxtjs,py,react,redux,supabase,tailwind,mongodb,mysql,git,github,firebase,electron,docker,bootstrap,express,fastapi,figma)](https://skillicons.dev)
 
-## 👋 Hi there!
+## 👋 Hi My name is Umidjon. I am Full stack developer and Mobile developer !
 
 I'm a passionate full-stack developer who loves building modern web and mobile applications.  
 I enjoy working with new technologies and constantly improving my skills.
