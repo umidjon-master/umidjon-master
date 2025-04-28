@@ -15,7 +15,7 @@ I enjoy working with new technologies and constantly improving my skills.
   `HTML5`, `CSS3`, `JavaScript`, `React`, `Next.js`, `Nuxt.js`, `Tailwind CSS`, `Bootstrap`
 
 - **Backend:**  
-  `Node.js`, `Express.js`, `NestJS`, `FastAPI`, `Python`
+  `Node.js`, `Express.js`, `NestJS`, `FastAPI`, `Python`,`django`
 
 - **Databases:**  
   `MongoDB`, `MySQL`, `Supabase`, `Firebase`
